@@ -1,0 +1,123 @@
+body {                               
+    text-align: center;
+    margin: 0;
+    padding-top: 800px
+}
+
+.timber {
+    width: 175px;
+    border-radius: 50%;
+}
+
+#he {
+    position: absolute;
+    height: 800px;
+    background: linear-gradient(#80ffff 0%, #1a8cff 100%);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 9;
+    color: forestgreen;
+    
+
+}
+
+.coding {
+    height: 5px;
+    background-color: aqua;
+    width: 80px;
+    margin: 8px auto;
+    
+
+}
+#I { text-align: center;
+    margin: 0;
+    padding: 50px;
+    
+}
+
+
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+  top:0px; background:white;width: 100%;
+    
+    z-index: 72;
+    cursor: pointer;
+
+}
+     
+
+
+.links {
+    float:left;
+    color: deeppink;
+
+    padding-top: 5px; padding-bottom:5px; padding-right:9px; padding-left:10px;
+     
+    font-family:'Redressed', cursive;
+    font-size:20px;
+    
+}
+
+
+.links:hover{ background-color:blueviolet;
+    
+}
+a { text-decoration: none;
+    
+    
+}
+html{ scroll-behavior: smooth;
+    
+}
+.article:hover{ background-color: darkorange;
+    
+}
+    
+
+
+}
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.article:hover {
+    color:fuchsia;
+}
+
+#writing a
+{
+text-shadow: none !important;
+text-decoration: underline !important;
+color: blue !important;
+}
+
+#contact
+{
+background: firebrick;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.legacy h3
+{
+    display: inline;
+}
+.legacy  a
+{
+    color: white;
+    text-shadow: none;
+}
+
+
